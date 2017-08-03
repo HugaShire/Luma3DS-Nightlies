@@ -13,8 +13,8 @@ YOU ARE RESPONSIBE FOR ALL ACTIONS YOU DO WITH THIS ON YOU SYSTEM
 __________________________________________________________________________________________________________________________________________
 TO DO:
 
-Commit Legacy Branches
+~~Commit Legacy Branches
 
-Make website cleaner
+~~Make website cleaner~~ (Sort Of Done)
 
 Add list of commits
